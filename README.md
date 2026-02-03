@@ -13,7 +13,7 @@ building ctrl. visual defi automation.
 
 ## what i'm building
 
-**[ctrl](https://ctrl.app)** - visual workflow automation for defi
+**[ctrl](https://ctrl.build)** - visual workflow automation for defi
 
 - drag & drop workflows
 - price triggers (5 sec)
