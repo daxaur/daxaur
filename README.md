@@ -28,7 +28,7 @@ building ctrl. visual defi automation.
 ## repos
 
 ### shipping now
-- **[paw]((https://github.com/daxaur/openpaw))** - personal assistant wizard for claude code
+- **[openpaw]((https://github.com/daxaur/openpaw))** - personal assistant wizard for claude code
 - **[defi-security-research](https://github.com/daxaur/defi-security-research)** - attack vectors & mitigations
 
 ### building next
