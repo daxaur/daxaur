@@ -28,8 +28,7 @@ building ctrl. visual defi automation.
 ## repos
 
 ### shipping now
-- **[openpaw]((https://github.com/daxaur/openpaw))** - personal assistant wizard for claude code
-- **[defi-security-research](https://github.com/daxaur/defi-security-research)** - attack vectors & mitigations
+- **[openpaw](https://github.com/daxaur/openpaw))** - personal assistant wizard for claude code
 
 ### building next
 - **[ctrl-sdk](https://github.com/daxaur/ctrl-sdk)** - typescript sdk for ctrl api
