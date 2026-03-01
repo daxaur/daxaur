@@ -21,7 +21,7 @@ building ctrl. visual defi automation.
 - session keys (sign once, execute many)
 
 **stack:** next.js 16, react flow, supabase, foundry  
-**testnet:** live on sepolia
+**mainnet:** live on eth mainnet
 
 ---
 
