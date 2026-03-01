@@ -44,7 +44,7 @@ building ctrl. visual defi automation.
 ## links
 
 [![x](https://img.shields.io/badge/-@daxaur-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/daxaur)
-[![website](https://img.shields.io/badge/-ctrl.app-CCFF00?style=flat-square&logo=googlechrome&logoColor=black)](https://ctrl.build)
+[![website](https://img.shields.io/badge/-ctrl.build-CCFF00?style=flat-square&logo=googlechrome&logoColor=black)](https://ctrl.build)
 
 ---
 
