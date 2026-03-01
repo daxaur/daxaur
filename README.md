@@ -16,10 +16,9 @@ building ctrl. visual defi automation.
 **[ctrl](https://ctrl.build)** - visual workflow automation for defi
 
 - drag & drop workflows
-- price triggers (5 sec)
+- price triggers 
 - if/else logic
 - session keys (sign once, execute many)
-- bank-grade encryption
 
 **stack:** next.js 16, react flow, supabase, foundry  
 **testnet:** live on sepolia
@@ -29,14 +28,11 @@ building ctrl. visual defi automation.
 ## repos
 
 ### shipping now
-- **[workflow-templates](https://github.com/daxaur/workflow-templates)** - copy-paste ctrl workflows
+- **[paw]((https://github.com/daxaur/openpaw))** - personal assistant wizard for claude code
 - **[defi-security-research](https://github.com/daxaur/defi-security-research)** - attack vectors & mitigations
 
 ### building next
 - **[ctrl-sdk](https://github.com/daxaur/ctrl-sdk)** - typescript sdk for ctrl api
-- **[defi-primitives](https://github.com/daxaur/defi-primitives)** - lightweight defi utils
-- **[session-key-kit](https://github.com/daxaur/session-key-kit)** - session key toolkit
-- **[molt-channel-router](https://github.com/daxaur/molt-channel-router)** - smart routing for moltbot
 
 ---
 
@@ -44,14 +40,12 @@ building ctrl. visual defi automation.
 
 ![github activity](https://ghchart.rshah.org/daxaur)
 
-![stats](https://github-readme-stats.vercel.app/api?username=daxaur&show_icons=true&theme=dark&hide_border=true&bg_color=0a0b0f&title_color=ccff00&icon_color=ccff00&text_color=ffffff&hide_title=true)
-
 ---
 
 ## links
 
 [![x](https://img.shields.io/badge/-@daxaur-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/daxaur)
-[![website](https://img.shields.io/badge/-ctrl.app-CCFF00?style=flat-square&logo=googlechrome&logoColor=black)](https://ctrl.app)
+[![website](https://img.shields.io/badge/-ctrl.app-CCFF00?style=flat-square&logo=googlechrome&logoColor=black)](https://ctrl.build)
 
 ---
 
