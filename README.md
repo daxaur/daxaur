@@ -35,12 +35,6 @@ building ctrl. visual defi automation.
 
 ---
 
-## stats
-
-![github activity](https://ghchart.rshah.org/daxaur)
-
----
-
 ## links
 
 [![x](https://img.shields.io/badge/-@daxaur-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/daxaur)
