@@ -42,4 +42,4 @@ building ctrl. visual defi automation.
 
 ---
 
-ship fast. iterate faster.
+remilio.
