@@ -1,6 +1,6 @@
 # dax
 
-building ctrl. visual defi automation.
+building ctrl. tracing causal connections.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -39,7 +39,3 @@ building ctrl. visual defi automation.
 
 [![x](https://img.shields.io/badge/-@daxaur-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/daxaur)
 [![website](https://img.shields.io/badge/-ctrl.build-CCFF00?style=flat-square&logo=googlechrome&logoColor=black)](https://ctrl.build)
-
----
-
-remilio.
