@@ -1,6 +1,9 @@
 # dax
 
 [![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=CCFF00&center=false&vCenter=true&width=500&height=40&lines=building+ctrl.;tracing+causal+connections.)](https://x.com/daxaur)
+
+[![skills](https://skillicons.dev/icons?i=ts,react,nextjs,solidity,rust,supabase&theme=dark)](https://skillicons.dev)
+
 ---
 
 ## projects
@@ -9,6 +12,8 @@
 
 **[causalist](https://github.com/daxaur/causalist)** - a causal graph layer for any codebase.  
 [![built with opus 4.7](https://img.shields.io/badge/built_with-opus_4.7-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-4-7-hackathon)
+
+**[tabia](https://github.com/daxaur/tabia)** - a browser-local chess opening trainer. drill your repertoire with spaced repetition, no account, no server.
 
 ## building now
 
