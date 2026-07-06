@@ -1,7 +1,6 @@
 # dax
 
 [![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=CCFF00&center=false&vCenter=true&width=500&height=40&lines=building+ctrl.;tracing+causal+connections.)](https://x.com/daxaur)
-
 ---
 
 ## projects
