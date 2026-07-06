@@ -8,13 +8,13 @@
 
 **[ctrl](https://ctrl.build)** - automating everything onchain. complex workflows, live on base + ethereum.
 
-**[causalist](https://github.com/daxaur/causalist)** - a causal graph layer for any codebase. for [![built with opus 4.7](https://img.shields.io/badge/built_with-opus_4.7-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-4-7-hackathon)
+**[causalist](https://github.com/daxaur/causalist)** - a causal graph layer for any codebase. [![built with opus 4.7](https://img.shields.io/badge/built_with-opus_4.7-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-4-7-hackathon)
 
 **[tabia](https://github.com/daxaur/tabia)** - a browser-local chess opening trainer. drill your repertoire with spaced repetition, no account, no server.
 
 ## building now
 
-**[glia](https://github.com/daxaur/glia)** - a virtual biologist you can check. for [![built with claude: life sciences](https://img.shields.io/badge/built_with_claude-life_sciences-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-claude-life-sciences)
+**[glia](https://github.com/daxaur/glia)** - a virtual biologist you can check. [![built with claude: life sciences](https://img.shields.io/badge/built_with_claude-life_sciences-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-claude-life-sciences)
 
 ---
 
