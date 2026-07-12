@@ -14,10 +14,6 @@
 
 **[tabia](https://github.com/daxaur/tabia)** - a browser-local chess opening trainer. drill your repertoire with spaced repetition, no account, no server.
 
-## building now
-
-**[glia](https://github.com/daxaur/glia)** - a virtual biologist you can check. [![built with claude: life sciences](https://img.shields.io/badge/built_with_claude-life_sciences-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-claude-life-sciences)
-
 ---
 
 ## links
