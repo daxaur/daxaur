@@ -8,7 +8,7 @@
 
 **[ctrl](https://ctrl.build)** - automating everything onchain. complex workflows, live on base + ethereum.
          
-**[openpaw](https://github.com/daxaur/openpaw) - personal assistant wizard for claude code.
+**[openpaw](https://github.com/daxaur/openpaw)** - automating everything onchain. complex workflows, live on base + ethereum.
 
 **[causalist](https://github.com/daxaur/causalist)** - a causal graph layer for any codebase. [![built with opus 4.7](https://img.shields.io/badge/built_with-opus_4.7-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://cerebralvalley.ai/e/built-with-4-7-hackathon)
 
